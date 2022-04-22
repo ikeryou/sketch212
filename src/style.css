@@ -18,3 +18,16 @@ body {
   color: #FFF;
   font-size: 19px;
 }
+
+
+.link {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding: 20px;
+  font-size: 20px;
+  color: inherit;
+  text-decoration: underline;
+  color: #FFF;
+  background-color: #000;
+}
